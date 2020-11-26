@@ -62,4 +62,12 @@ Activity: Uncomment the grades conditional in src/App.jsx
 git add src/App.jsx
 git commit -m "uncomment grades section"
 git push
+
+---------------------------------------------
+
+Step 11: Merge your pull request
+Now that we've approved the changes, it's time to merge the pull request.
+
+Activity: Merge the changes branch into master
+1.Click the Merge Pull Request button
 */
