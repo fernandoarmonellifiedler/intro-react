@@ -20,7 +20,7 @@ render() {
 /*
 But how do we specialize the List for our assignments? This where our props come into play. We create properties such as placeholder, and currList. We then assign values to them.
 
-------------------------------------------------
+---------------------------------------------
 
 Step 4: Import Assignments
 Now that we imported the child component, let's use it in our code. At the end of this step, you should be able to click on the Assignments tab and render the following:
